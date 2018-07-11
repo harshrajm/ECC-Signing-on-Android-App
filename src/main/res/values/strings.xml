@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ECC Signing Demo</string>
+
+
+    <string-array name="pk">
+        <item>Private Key 1</item>
+        <item>Private Key 2</item>
+    </string-array>
+
+    <string-array name="cer">
+        <item>Certificate 1</item>
+        <item>Certificate 2</item>
+    </string-array>
+</resources>
